@@ -1,2 +1,3 @@
 # Responsive-Project--Premier
 Frontend Web Project: Model Portfolio Website
+Project Description--This project is a stunning portfolio website for a fashion model, built using HTML and CSS. The website showcases the model's work through a beautifully designed layout featuring high-quality images, an engaging biography, and contact information. Key features include a responsive design for seamless viewing across all devices and an interactive photo gallery to highlight the model's portfolio. The site emphasizes clean, elegant visuals and intuitive navigation to create an appealing and user-friendly experience.
